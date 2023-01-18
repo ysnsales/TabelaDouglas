@@ -1,0 +1,46 @@
+body {
+    background-color: #ffffff;
+}
+
+ul {
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #020202;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    margin: 5px 5px;
+}
+
+p {
+    width: 45px;
+    height: 45px;
+    font-size: 20px;
+    margin-top: 22px;
+}
+
+.verde {
+    background-color: green;
+    color: #ffffff;
+}
+
+.vermelho {
+    background-color: red;
+    color: #ffffff;
+}
+
+.amarelo{
+    background-color: yellow;
+}
